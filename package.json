@@ -1,8 +1,8 @@
 {
-  "name": "react_2hm_classCompPhoneBook",
+  "name": "react_2hm_classCompPhoneBookLocStrg",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ohleh.github.io/react_2hm_classCompPhoneBook/",
+  "homepage": "https://Ohleh.github.io/react_2hm_classCompPhoneBookLocStrg/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
